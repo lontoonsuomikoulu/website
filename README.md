@@ -1,6 +1,6 @@
 # Finnish School London Website
 
-This repository keeps track of issues related to the website at https://lontoonsuomikoulu.com. Development is done under squarespace.com
+This repository keeps track of issues related to the website at https://lontoonsuomikoulu.com. Development is done through [squarespace.com](https://account.squarespace.com/)
 
 ## Update Backlog
 
